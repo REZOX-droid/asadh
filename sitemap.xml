@@ -6,7 +6,7 @@
 
   <!-- Main Page -->
   <url>
-    <loc>https://asadw.vercel.app/</loc>
+    <loc>https://asadweb.vercel.app/</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -14,47 +14,48 @@
 
   <!-- Section Anchors -->
   <url>
-    <loc>https://asadw.vercel.app/#about</loc>
+    <loc>https://asadweb.vercel.app/#about</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://asadw.vercel.app/#skills</loc>
+    <loc>https://asadweb.vercel.app/#skills</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asadw.vercel.app/#experience</loc>
+    <loc>https://asadweb.vercel.app/#experience</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asadw.vercel.app/#projects</loc>
+    <loc>https://asadweb.vercel.app/#projects</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asadw.vercel.app/#certificates</loc>
+    <loc>https://asadweb.vercel.app/#certificates</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://asadw.vercel.app/#resume</loc>
+    <loc>https://asadweb.vercel.app/#resume</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://asadw.vercel.app/#contact</loc>
+    <loc>https://asadweb.vercel.app/#contact</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
 </urlset>
+
 
