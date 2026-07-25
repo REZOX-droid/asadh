@@ -1,4 +1,4 @@
-﻿# robots.txt – Muhammad Asad Haider Portfolio
+# robots.txt – Muhammad Asad Haider Portfolio
 # Allow all search engine crawlers to index the entire site
 
 User-agent: *
@@ -9,6 +9,6 @@ Disallow:
 Crawl-delay: 10
 
 # Sitemap location
-Sitemap: https://asadweb.vercel.app/sitemap.xml
+Sitemap: https://asadweb-gamma.vercel.app/sitemap.xml
 
 
